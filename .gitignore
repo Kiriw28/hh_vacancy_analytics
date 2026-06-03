@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+.venv/
+
+
+# Others
+hh_vacancy_analytics_tz.md
+hh_vacancy_analytics_tz.pdf
